@@ -12,7 +12,7 @@
   <!-- Password input -->
   <div class="form-outline mb-4">
     <input type="password" id="form2Example2" class="form-control" />
-    <label class="form-label" for="form2Example2">Password</label>
+    <label class="form-label" for="form2Example2">Passworddddd</label>
   </div>
 
   <!-- 2 column grid layout for inline styling -->
